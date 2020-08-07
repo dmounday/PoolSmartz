@@ -6,8 +6,9 @@ Node Red UI to PoolSmartz controller
 
 ### About
 
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
+Controls equipment on/off
+Returns equipment status.
+
 =======
 # PoolSmartz
 Pool Automation working code
