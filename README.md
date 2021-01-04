@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-PoolSmartz
+PoolSmartz Node-Red Flows and UI
 ==========
 
 Node Red UI to PoolSmartz controller
